@@ -5,22 +5,6 @@
 > 💭 *“Meaning isn’t found, it’s made — line by line, commit by commit.”*  
 > — Me, probably.
 
----
-
-## 🔮 About Me
-
-I'm **Asher Winstead**, a creative technologist and full-stack developer who builds like an architect and dreams like a poet.  
-🧠 Materialist, humanist, and agnostic atheist with a love for clean code, chaotic curiosity, and cosmic-level ambition.
-
-- 🎓 Computer Science student @ Neumont College of Computer Science  
-- 💻 Linux daily driver (btw I use Arch 😏)  
-- 🎮 Former Fortnite creative dev
-- 🛠️ Founder of multiple software and hardware repair projects  
-- 🌐 Full-stack experience: frontend, backend, infrastructure, the whole damn cake  
-- 🔁 Always iterating, always creating
-
----
-
 ### 🛠️ Technologies & Tools I Love
 
 #### 🧠 Languages & Scripting  
