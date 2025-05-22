@@ -1,9 +1,16 @@
-# 👋 Hey, I'm Asher Winstead — aka MrAshCreates
-
-![Visitor Count](https://komarev.com/ghpvc/?username=MrAshCreates&color=blue)
-
+# 👋 Hey, I'm Asher Winstead — aka MrAshCreates ![Visitor Count](https://komarev.com/ghpvc/?username=MrAshCreates&color=blue)
 > 💭 *“Meaning isn’t found, it’s made — line by line, commit by commit.”*  
 > — Me, probably.
+
+## 💡 Highlights
+
+🧠 **Philosophy-Driven Developer**: My code reflects how I think — skeptical, elegant, and intentional.  
+🛠️ **CLI Addict**: If it doesn’t work in the terminal, it doesn’t work. Period.  
+🌌 **Meaning Maker**: Whether it’s a web design or a compiler backend, I build what I believe in.  
+🎮 **Creative Technologist**: I don't just code — I worldbuild.  
+📚 **Lifelong Learner**: AI, OS internals, compilers, and consciousness — let’s go.
+
+---
 
 ### 🛠️ Technologies & Tools I Love
 
@@ -44,23 +51,15 @@
 ![PIP](https://img.shields.io/badge/-PIP-3776AB?style=flat-square&logo=pypi&logoColor=white)
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
+---
+
 ## 📈 GitHub Stats
 
-![MrAshCreates's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MrAshCreates&show_icons=true&theme=radical&count_private=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrAshCreates&layout=compact&theme=radical)
+![MrAshCreates's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MrAshCreates&show_icons=true&theme=radical&count_private=true)      ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrAshCreates&layout=compact&theme=radical)
 
 
 
----
 
-## 💡 Highlights
-
-🧠 **Philosophy-Driven Developer**: My code reflects how I think — skeptical, elegant, and intentional.  
-🛠️ **CLI Addict**: If it doesn’t work in the terminal, it doesn’t work. Period.  
-🌌 **Meaning Maker**: Whether it’s a web design or a compiler backend, I build what I believe in.  
-🎮 **Creative Technologist**: I don't just code — I worldbuild.  
-📚 **Lifelong Learner**: AI, OS internals, compilers, and consciousness — let’s go.
-
----
 
 ## 📬 Reach Out
 
