@@ -21,20 +21,6 @@ I'm **Asher Winstead**, a creative technologist and full-stack developer who bui
 
 ---
 
-## 🌐 Connect With Me
-
-| Platform | Link |
-|---------|------|
-| 🧠 Personal Site | [asherwinstead.dev](https://asherwinstead.dev) |
-| 💻 Project Showcase | [mrashcreates.xyz](https://mrashcreates.xyz) |
-| 🐙 GitHub | [@MrAshCreates](https://github.com/MrAshCreates) |
-| 🧠 LinkedIn | [Asher Winstead](https://www.linkedin.com/in/asher-winstead-a89a8325b) |
-| 📸 Instagram | [@asherwinstead](https://www.instagram.com/asherwinstead) |
-| 🐦 Twitter | [@MrAshCreates](https://twitter.com/MrAshCreates) |
-| 🎵 TikTok | [@mrashcreates](https://www.tiktok.com/@mrashcreates) |
-
----
-
 ### 🛠️ Technologies & Tools I Love
 
 #### 🧠 Languages & Scripting  
