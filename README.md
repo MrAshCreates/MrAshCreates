@@ -37,16 +37,12 @@
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 ![Zsh](https://img.shields.io/badge/-Zsh-000000?style=flat-square&logo=terminal&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![tmux](https://img.shields.io/badge/-tmux-1BB91F?style=flat-square&logo=tmux&logoColor=white)
 ![Make](https://img.shields.io/badge/-Makefile-000000?style=flat-square&logo=cmake&logoColor=white)
 ![CMake](https://img.shields.io/badge/-CMake-F34B7D?style=flat-square&logo=cmake&logoColor=white)
-![GDB](https://img.shields.io/badge/-GDB-000000?style=flat-square&logo=gnu&logoColor=white)
 ![NPM](https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white)
 ![pnpm](https://img.shields.io/badge/-pnpm-F69220?style=flat-square&logo=pnpm&logoColor=black)
 ![PIP](https://img.shields.io/badge/-PIP-3776AB?style=flat-square&logo=pypi&logoColor=white)
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-
 
 ## 📈 GitHub Stats
 
