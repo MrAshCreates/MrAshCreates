@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Asher Winstead — aka MrAshCreates
 
-![Visitor Count](https://komarev.com/ghpvc/?username=MrAshCreates&color=purple)
+![Visitor Count](https://komarev.com/ghpvc/?username=MrAshCreates&color=blue)
 
 > 💭 *“Meaning isn’t found, it’s made — line by line, commit by commit.”*  
 > — Me, probably.
@@ -88,25 +88,6 @@ I'm **Asher Winstead**, a creative technologist and full-stack developer who bui
 ![Notion](https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=notion&logoColor=white)
 ![Obsidian](https://img.shields.io/badge/-Obsidian-483699?style=flat-square&logo=obsidian&logoColor=white)
 ![Trello](https://img.shields.io/badge/-Trello-0052CC?style=flat-square&logo=trello&logoColor=white)
-## 🛠️ Technologies & Tools I Love
-
-**Languages & Scripting**
-- `Python` • `Rust` • `C` • `C++` • `JavaScript` • `TypeScript` • `HTML/CSS` • `Shell`  
-- `SQL` • `JSON` • `Markdown`
-
-**Frameworks & Libraries**
-- `React` • `Next.js` • `Node.js` • `Express`  
-- `Tailwind CSS` • `Bootstrap` • `jQuery` (when it won’t die)
-
-**DevOps & Tools**
-- `Linux (Arch, Ubuntu)` • `Docker` • `Git` • `Bash` • `Zsh`  
-- `Vim` • `VS Code` • `tmux` • `Paru` • `Make` • `CMake` • `GDB`  
-- `NPM` • `PIP` • `pnpm` • `Poetry`  
-- `SQLite` • `PostgreSQL` • `MongoDB`
-
-**Creative & Productivity**
-- `Figma` • `Photoshop` • `After Effects`  
-- `Obsidian` • `Notion` • `Trello`
 
 ---
 
